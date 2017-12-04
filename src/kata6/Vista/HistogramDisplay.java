@@ -54,6 +54,5 @@ public class HistogramDisplay <T> extends ApplicationFrame{
     
     public void execute() {
         setVisible(true);
-    }
-    
+    } 
 }
